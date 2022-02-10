@@ -4,7 +4,7 @@
 
 Testing STEPS : (8080) /users
 
-a)  Inserting data into the in memory Database (h2)
+a)  Inserting data into the in memory database (h2)
 
 {
   "username" : "admin",
