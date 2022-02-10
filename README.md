@@ -14,4 +14,4 @@ a)  Inserting data into the in memory Database (h2)
 
 successful insert.
 
-b) try the same with different option and the exception handler will pass custpmised message.
+b) try the same with different option and the exception handler will pass customised message.
